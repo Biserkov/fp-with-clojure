@@ -1,0 +1,27 @@
+[submodule "1-training-day"]
+	path = 1-training-day
+	url = http://github.com/biserkov/training-day
+[submodule "2-i-am-a-horse-in-the-land-of-booleans"]
+	path = 2-i-am-a-horse-in-the-land-of-booleans
+	url = http://github.com/biserkov/i-am-a-horse-in-the-land-of-booleans
+[submodule "3-structured-data"]
+	path = 3-structured-data
+	url = http://github.com/biserkov/structured-data
+[submodule "4-p-p-p-pokerface"]
+	path = 4-p-p-p-pokerface
+	url = http://github.com/biserkov/p-p-p-pokerface
+[submodule "5-predicates"]
+	path = 5-predicates
+	url = http://github.com/biserkov/predicates
+[submodule "6-recursion"]
+	path = 6-recursion
+	url = http://github.com/biserkov/recursion
+[submodule "7-looping-is-recursion"]
+	path = 7-looping-is-recursion
+	url = http://github.com/biserkov/looping-is-recursion
+[submodule "8-one-function-to-rule-them-all"]
+	path = 8-one-function-to-rule-them-all
+	url = http://github.com/biserkov/one-function-to-rule-them-all
+[submodule "9-sudoku"]
+	path = 9-sudoku
+	url = http://github.com/biserkov/sudoku
